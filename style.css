@@ -47,4 +47,6 @@ button {
 
 button:hover {
     background: lightgreen;
+    cursor: pointer;
+    transform: scale(1.1);
 }
